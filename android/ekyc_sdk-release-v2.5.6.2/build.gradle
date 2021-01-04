@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('android_vnpt_ekyc_sdk-v2.5.6.2.aar'))
